@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @farhansadik007
-- 👀 I’m interested in Web Dev
+- 👀 I’m interested in CS
 - 🌱 I’m currently learning Javascript, C, Python and Dart
 - 📫 How to reach me :https://www.facebook.com/FarhanSadikZisan/
