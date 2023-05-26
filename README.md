@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @farhansadik007
 - 👀 I’m interested in CS, AI
-- 🌱 I’m currently learning Javascript, C, Python and Dart
+- 🌱 I’m currently learning Javascript, C, Python, React and Node
 - 📫 How to reach me :https://www.facebook.com/FarhanSadikZisan/
