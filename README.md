@@ -1,9 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Farhan Sadik</h1>
 <h3 align="center">A passionate web developer from Bangladesh 🇧🇩</h3>
-- 👀 I’m interested in CS, AI
-- 🌱 I’m currently learning Dart & Flutter
-- 📫 How to reach me :https://www.facebook.com/FarhanSadikZisan/
+<h3 align="center">👀 I’m interested in CS, AI </h3>
+<h3 align="center">🌱 I’m currently learning Dart & Flutter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhansadik007&label=Profile%20views&color=0e75b6&style=flat" alt="farhansadik007" /> </p>
 
