@@ -1,4 +1,4 @@
-
+<img align="center" src="https://www.becauselearning.com/wp-content/uploads/2017/11/hello-world.gif" alt="farhansadik007" />
 <h1 align="center">Hi 👋, I'm Farhan Sadik</h1>
 <h3 align="center">A passionate web developer from Bangladesh 🇧🇩</h3>
 <h3 align="center">👀 I’m interested in CS, AI </h3>
