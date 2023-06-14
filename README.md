@@ -1,5 +1,6 @@
-<p align="center"><img src="https://gfycat.com/ifr/DampDamagedBarbet" alt="Demon Slayer <3" /></p>
+<p align="center"><img src="[https://gfycat.com/ifr/DampDamagedBarbet](https://gfycat.com/dampdamagedbarbet)" alt="Demon Slayer <3" /></p>
 <iframe src='https://gfycat.com/ifr/DampDamagedBarbet' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe><p> <a href="https://gfycat.com/dampdamagedbarbet">via Gfycat</a></p>
+
 
 <p align="center"><img src="https://www.becauselearning.com/wp-content/uploads/2017/11/hello-world.gif" alt="farhansadik007" /></p>
 <h1 align="center">Hi 👋, I'm Farhan Sadik</h1>
