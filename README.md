@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fhinokami-keppuutan-sun-breathing-tanjiro-kamado-gif-21678839&psig=AOvVaw0uSWqi2wuRxUbFBlOTVAVc&ust=1686812120056000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjexPuWwv8CFQAAAAAdAAAAABAJ" alt="Demon Slayer" /></p>
+<p align="center"><img src="https://qph.cf2.quoracdn.net/main-qimg-800a0f71c2509f3e8b8ce9b07e174d72" alt="Demon Slayer" /></p>
 
 <h1 align="center">Hi 👋, I'm Farhan Sadik</h1>
 <h3 align="center">A passionate web developer from Bangladesh 🇧🇩</h3>
