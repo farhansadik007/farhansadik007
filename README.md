@@ -1,4 +1,3 @@
-<iframe src="https://giphy.com/embed/TdoiN7rZuGDJPs2rAS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <p align="center"><img src="https://www.becauselearning.com/wp-content/uploads/2017/11/hello-world.gif" alt="farhansadik007" /></p>
 <h1 align="center">Hi 👋, I'm Farhan Sadik</h1>
 <h3 align="center">A passionate web developer from Bangladesh 🇧🇩</h3>
