@@ -1,7 +1,5 @@
-
-<p align="center"><img src="https://i.ibb.co/f2VVgKL/main-qimg-800a0f71c2509f3e8b8ce9b07e174d72.gif" alt="Demon Slayer" /></p>
-<img src="https://i.ibb.co/f2VVgKL/main-qimg-800a0f71c2509f3e8b8ce9b07e174d72.gif" alt="main-qimg-800a0f71c2509f3e8b8ce9b07e174d72" border="0">
 <h1 align="center">Hi 👋, I'm Farhan Sadik</h1>
+
 <h3 align="center">A passionate web developer from Bangladesh 🇧🇩</h3>
 <h3 align="center">👀 I’m interested in CS, AI </h3>
 <h3 align="center">🌱 I’m currently learning Dart & Flutter</h3>
