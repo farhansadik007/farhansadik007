@@ -1,4 +1,4 @@
-<p align="center"><img src="[https://gfycat.com/ifr/DampDamagedBarbet](https://gfycat.com/dampdamagedbarbet)" alt="Demon Slayer <3" /></p>
+<p align="center"><img src="https://gfycat.com/dampdamagedbarbet" alt="Demon Slayer <3" /></p>
 <iframe src='https://gfycat.com/ifr/DampDamagedBarbet' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe><p> <a href="https://gfycat.com/dampdamagedbarbet">via Gfycat</a></p>
 
 
