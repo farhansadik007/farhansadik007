@@ -12,8 +12,8 @@
 **Reach out to me:** ️
 <p align="center">
 <a href="https://twitter.com/zisansadik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zisansadik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sadikfarhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sadikfarhan/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/farhansadikzisan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/farhansadikzisan/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sadikfarhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sadikfarhan/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/farhansadikzisan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/farhansadikzisan/" height="30" width="40" /></a>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=farhansadik007&label=Profile%20views&color=0e75b6&style=flat" alt="farhansadik007" /> </p>
 </p>
 
