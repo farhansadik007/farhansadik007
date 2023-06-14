@@ -1,6 +1,6 @@
 
 <p align="center"><img src="https://media.tenor.com/P8ftI4b-igsAAAAC/hinokami-keppuutan-sun-breathing.gif" alt="Demon Slayer" /></p>
-<p align="center"><img src="https://www.becauselearning.com/wp-content/uploads/2017/11/hello-world.gif" alt="farhansadik007" /></p>
+
 <h1 align="center">Hi 👋, I'm Farhan Sadik</h1>
 <h3 align="center">A passionate web developer from Bangladesh 🇧🇩</h3>
 <h3 align="center">👀 I’m interested in CS, AI </h3>
