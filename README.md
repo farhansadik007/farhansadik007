@@ -1,6 +1,5 @@
 
-<p align="center"><img src="https://qph.cf2.quoracdn.net/main-qimg-800a0f71c2509f3e8b8ce9b07e174d72" alt="Demon Slayer" /></p>
-![Uploading main-qimg-800a0f71c2509f3e8b8ce9b07e174d72.gif…]()
+<p align="center"><img src="https://i.ibb.co/f2VVgKL/main-qimg-800a0f71c2509f3e8b8ce9b07e174d72.gif" alt="Demon Slayer" /></p>
 
 <h1 align="center">Hi 👋, I'm Farhan Sadik</h1>
 <h3 align="center">A passionate web developer from Bangladesh 🇧🇩</h3>
