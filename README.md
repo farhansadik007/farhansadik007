@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate web developer from Bangladesh 🇧🇩</h3>
 <h3 align="center">👀 I’m interested in CS, AI </h3>
-<h3 align="center">🌱 I’m currently learning Dart & Flutter</h3>
+<h3 align="center">🌱 I’m currently learning React Native and CP</h3>
 
 <p align="center"><img src="https://www.becauselearning.com/wp-content/uploads/2017/11/hello-world.gif" alt="farhansadik007" /></p>
 
