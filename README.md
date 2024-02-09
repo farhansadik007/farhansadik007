@@ -4,6 +4,9 @@
 <h3 align="center">👀 I’m interested in CS, AI </h3>
 <h3 align="center">🌱 I’m currently learning React Native and CP</h3>
 
+
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/farhansadik007/farhansadik007/assets/42910108/78ad210d-cdc3-4f56-b1b4-65f9220a3340)
+
 <p align="center"><img src=htt![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/farhansadik007/farhansadik007/assets/42910108/3f65ea53-b2e4-4727-9a4e-88e16390789f)
 ps://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="farhansadik007" /></p>
 
