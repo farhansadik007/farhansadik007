@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Farhan Sadik</h1>
 
 <h3 align="center">A passionate web developer from Bangladesh 🇧🇩</h3>
-<h3 align="center">👀 I’m interested in CS, AI </h3>
-<h3 align="center">🌱 I’m currently learning React Native and CP</h3>
+<h3 align="center">👀 I’m a Tech Guy, working on my Tech Startup </h3>
+<h3 align="center">🌱 I’m currently learning React Native </h3>
 
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/farhansadik007/farhansadik007/assets/42910108/78ad210d-cdc3-4f56-b1b4-65f9220a3340)
