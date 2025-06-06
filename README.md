@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farhan Sadik</h1>
+<h1 align="center">Hi 👋, I'm Farhan Sadik </h1>
 
 <h3 align="center">A passionate web developer from Bangladesh 🇧🇩</h3>
 <h3 align="center">👀 I’m a Tech Guy, working on my Tech Startup </h3>
